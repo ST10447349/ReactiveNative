@@ -18,6 +18,4 @@ Part 3
 - Remove functionality implemented (Delete button with confirmation) on each menu card.
 - FilterScreen created for guests to choose a course and see filtered results.
 - Home shows average price per course in each section header 
-- Refactoring:
-  - Split code into multiple files: context, screens, components, utils, types.
-  - Created MenuItemRow component to match wireframe card layout and Edit/Delete action buttons.
+  
