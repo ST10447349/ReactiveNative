@@ -10,6 +10,7 @@ Features implemented
 - Filter screen for guests to filter by course
 
  
-Github link:https://github.com/ST10447349/ReactiveNative.git
+Github link:  https://github.com/ST10447349/ReactiveNative.git
+
 
 
